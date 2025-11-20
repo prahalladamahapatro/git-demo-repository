@@ -1,0 +1,3 @@
+# Whatever files we don't want to add in the git repository, we will add them here.
+# instead of file names, we can use the file patterns (read.txt/ *.txt)
+read.txt 
