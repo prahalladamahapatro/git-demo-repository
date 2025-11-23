@@ -1,0 +1,2 @@
+This is the Content of File1.txt.
+This is a demo text file, which is present in "Branch-for-text-files" Branch.
